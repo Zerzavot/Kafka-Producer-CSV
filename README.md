@@ -1,6 +1,7 @@
 # Kafka-Producer-CSV
 
-We are gonna make a kafka producer and send them to kafka console consumer. Then, we send them to a csv file</br> You can find the file *results.csv* in your kafka file.
+We are gonna make a kafka producer and send them to kafka console consumer. Then, we send the results to a csv file
+</br>You can find the file *results.csv* in your kafka file.
 
 - [x] Download Kafka and Zookeeper 
 - [ ] Start Zookeeper
